@@ -1,12 +1,21 @@
 
-$primary: #183753;
-$danger: #ff4136;
+
+// Dark theme
+$dark: (
+        "primary": #000000,
+        "secondary": #333333,
+        "light": #ffffff,
+        "dark": #000000,
+        "danger": #ff4136
+);
 
 body {
-    font-family: 'Oswald', sans-serif ;
+    font-family: 'Oswald', sans-serif;
+    background-color: $dark["secondary"];
+    color: $dark["light"];
 }
 
 @import '../node_modules/bootstrap/scss/bootstrap';
-@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+@import url("https://fonts.googleapis.com/css?family=Oswald:400,300,700");
 // importing core styling file
  
