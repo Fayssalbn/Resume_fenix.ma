@@ -1,21 +1,24 @@
 
+$primary: #0e5175; // set the primary color to red
+$secondary: #63ab04; // set the secondary color to green
 
-// Dark theme
-$dark: (
-        "primary": #000000,
-        "secondary": #333333,
-        "light": #ffffff,
-        "dark": #000000,
-        "danger": #ff4136
-);
+
 
 body {
     font-family: 'Oswald', sans-serif;
-    background-color: $dark["secondary"];
-    color: $dark["light"];
+
 }
 
+
+
+
+
+
+$fa-font-path: "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+
+
 @import '../node_modules/bootstrap/scss/bootstrap';
-@import url("https://fonts.googleapis.com/css?family=Oswald:400,300,700");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 // importing core styling file
  
