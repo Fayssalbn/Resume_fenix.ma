@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12657f29-0851-45f2-9e15-dd33aa78b9c8" name="Changes" comment="init cv">
+    <list default="true" id="12657f29-0851-45f2-9e15-dd33aa78b9c8" name="Changes" comment="init cv 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <updated>1691654661933</updated>
       <workItem from="1691654666967" duration="14764000" />
       <workItem from="1691678217861" duration="1658000" />
-      <workItem from="1691759016072" duration="5768000" />
+      <workItem from="1691759016072" duration="8663000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1691676993325</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691679264101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init cv 1">
+      <created>1691766195978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691766195978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="init cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="init cv" />
+    <MESSAGE value="init cv 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="init cv 1" />
   </component>
 </project>
